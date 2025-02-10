@@ -57,7 +57,7 @@ $(document).ready(function() {
       maskContents: true,
       south: {
 	      minSize: 100,
-				size: 1900,
+				size: 600,
 				spacing_open: 8
 			},
 			center: {
